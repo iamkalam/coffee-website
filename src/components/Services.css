@@ -1,0 +1,41 @@
+.main{
+    /* position: absolute; */
+    width: 250px;
+    height: 320px;
+}
+.card{
+        /* position: relative; */
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+        transform-style:preserve-3d;
+        transition: all 0.8s ease;
+}
+.card:hover{
+    transform: rotateY(180deg);
+}
+.fontcard{
+    /* position: absolute; */
+    /* top: 0;
+    left: 0; */
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    backface-visibility: hidden;
+    overflow: hidden;
+    box-shadow: 0 0 15px;
+}
+#backcard{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    backface-visibility: hidden;
+    overflow: hidden;
+    background: #e0d56d;
+    text-align: center;
+    transform: rotateY(180deg);
+    box-shadow: 0 0 15px;
+}
