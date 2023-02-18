@@ -11,7 +11,7 @@ return (
     <div >
         <Router>
         
-            <nav className='flex justify-around '>
+            <nav className='flex justify-around bg-      '>
                 <div>
                 
                     <img src='./cooke.jpg' className='h-12 w-10'/>

@@ -15,7 +15,6 @@
     box-shadow:0 0 10px;
     border-radius: 25px;
     backdrop-filter: blur( 1px );
-    -webkit-backdrop-filter: blur( 3px );
     text-align: center;
 }
 .inputs{
@@ -27,13 +26,14 @@
 .input1{
     padding: 10px;
     background-color: rgba(0,0,0, 0.1);
-    border-bottom: 1px solid rgba(223, 203, 178, 0.911);
-    border-bottom-width: 1px;
     color: aliceblue;
-}
-input:focus, textarea:focus, select:focus{
     outline: none;
+
 }
+input:focus{
+    border-bottom: 2px solid rgb(173, 127, 40); 
+}
+
 
 .form h1{
     color:aliceblue;
@@ -53,6 +53,10 @@ input:focus, textarea:focus, select:focus{
 }
 .button1:hover{
     background-color: rgb(31, 17, 0);
-    
     transition: 0.7s;
+}
+#place::placeholder{
+
+    color: rgb(219, 220, 221);
+    opacity: 1;
 }
