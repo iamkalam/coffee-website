@@ -34,7 +34,7 @@
     border-radius: 20px;
     backface-visibility: hidden;
     overflow: hidden;
-    background: #e0d56d;
+    background: #e0d56d; 
     text-align: center;
     transform: rotateY(180deg);
     box-shadow: 0 0 15px;
