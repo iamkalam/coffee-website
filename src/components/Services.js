@@ -21,11 +21,11 @@ function Services() {
         <div id='backcard' className='text-center '>
               <h1 className='text-3xl uppercase border-2 mt-16 font-bold'>Espresso</h1>
 
-              <h1 className='text-2xl p-2 font-mono'>large : 250 only</h1>
+              <h1 className='text-2xl p-2 font-mono'>large : 3 $</h1>
 
-              <h1 className='text-2xl  p-2 font-mono'>Medium : 150 only</h1>
+              <h1 className='text-2xl  p-2 font-mono'>Medium : 6 $</h1>
         
-              <h1 className='text-2xl  p-2  font-mono'>Small : 100 only</h1>
+              <h1 className='text-2xl  p-2  font-mono'>Small : 10 $</h1>
 
       </div>
 
@@ -43,11 +43,11 @@ function Services() {
         <div id='backcard' className='text-center '>
               <h1 className='text-3xl uppercase border-2 mt-16 font-bold'>Latte/Iced Latte</h1>
 
-              <h1 className='text-2xl p-2 font-mono'>large : 250 only</h1>
+              <h1 className='text-2xl p-2 font-mono'>large : 3 $</h1>
 
-              <h1 className='text-2xl  p-2 font-mono'>Medium : 150 only</h1>
+              <h1 className='text-2xl  p-2 font-mono'>Medium : 6 $</h1>
         
-              <h1 className='text-2xl  p-2  font-mono'>Small : 100 only</h1>
+              <h1 className='text-2xl  p-2  font-mono'>Small : 10 $</h1>
 
       </div>
 
@@ -66,11 +66,11 @@ function Services() {
         <div id='backcard' className='text-center '>
               <h1 className='text-3xl uppercase border-2 mt-16 font-bold'>Black Coffee</h1>
 
-              <h1 className='text-2xl p-2 font-mono'>large : 250 only</h1>
+              <h1 className='text-2xl p-2 font-mono'>large : 3 $</h1>
 
-              <h1 className='text-2xl  p-2 font-mono'>Medium : 150 only</h1>
+              <h1 className='text-2xl  p-2 font-mono'>Medium : 6 $</h1>
         
-              <h1 className='text-2xl  p-2  font-mono'>Small : 100 only</h1>
+              <h1 className='text-2xl  p-2  font-mono'>Small : 10 $</h1>
 
       </div>
 
@@ -88,11 +88,11 @@ function Services() {
         <div id='backcard' className='text-center '>
               <h1 className='text-3xl uppercase border-2 mt-16 font-bold'>Mocha</h1>
 
-              <h1 className='text-2xl p-2 font-mono'>large : 250 only</h1>
+              <h1 className='text-2xl p-2 font-mono'>large :3 $</h1>
 
-              <h1 className='text-2xl  p-2 font-mono'>Medium : 150 only</h1>
+              <h1 className='text-2xl  p-2 font-mono'>Medium :6 $</h1>
         
-              <h1 className='text-2xl  p-2  font-mono'>Small : 100 only</h1>
+              <h1 className='text-2xl  p-2  font-mono'>Small : 10 $</h1>
 
       </div>
 

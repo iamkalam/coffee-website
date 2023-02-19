@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+}
+.card2{
+    background-color: rgb(241, 238, 227);
+    height: 400px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.image img{
+    height: 200px;
+}
+.text{
+    text-align: center;
+    padding: 5px;
+}
+.text h1{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+
+}
+.text h2{
+    font-size: 17px;
+    text-transform: capitalize;
+    font-family:'Times New Roman', Times, serif;
+}
+.text button{
+    padding: 7px;
+    margin-top: 5px;
+    background-color: rgb(55, 93, 218);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+
+}
+.text button:hover{
+    background-color: rgb(9, 28, 133);
+    transition: 0.5s;
+}

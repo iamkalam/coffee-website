@@ -12,7 +12,7 @@
     height: 400px;
     padding: 30px;
     background-color: rgb(0, 0,0,0.5);
-    box-shadow:0 0 10px;
+    box-shadow:0 0 20px;
     border-radius: 25px;
     backdrop-filter: blur( 1px );
     text-align: center;

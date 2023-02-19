@@ -1,10 +1,13 @@
 import React from 'react'
 import "../components/contact.css"
 function Contact() {
+
       const handleClick= ()=>{
         alert("form submitted")
 
       }
+
+      
 
   return (
     <div id='main' className='h-screen' style={{backgroundImage:`url("./coffee.jpg")`,
